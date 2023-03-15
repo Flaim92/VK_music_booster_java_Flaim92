@@ -2,6 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.io.File;
 import java.io.IOException;
 import java.io.OutputStream;
 import java.io.PrintStream;
@@ -45,9 +46,15 @@ public class Window {
             public void actionPerformed(ActionEvent e) {
                 OpenAccounts.setIsStopRequested(true);
                 OpenAccounts.closeDriver();
-          
+                ProcessBuilder pb = new ProcessBuilder("cmd.exe", "/c", "clean_stop.bat");
+                try {
+                    pb.start();
+                } catch (IOException ex) {
+                    throw new RuntimeException(ex);
+                }
 
-                             // Ждем, пока процесс завершится
+
+                // Ждем, пока процесс завершится
 
 
                 try {
