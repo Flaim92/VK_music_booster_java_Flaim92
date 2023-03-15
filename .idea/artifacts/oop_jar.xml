@@ -1,0 +1,133 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="oop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/oop_jar</output-path>
+    <root id="archive" name="oop.jar">
+      <element id="module-output" name="oop" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/opentelemetry-sdk-common-1.22.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/async-http-client-2.12.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/netty-resolver-4.1.87.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/netty-transport-native-unix-common-4.1.87.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/opentelemetry-sdk-metrics-1.22.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/j2objc-annotations-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/commons-exec-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/failureaccess-1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/netty-codec-4.1.87.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/failsafe-3.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/auto-service-annotations-1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/opentelemetry-sdk-extension-autoconfigure-1.22.0-alpha.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/jtoml-2.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/netty-buffer-4.1.87.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/error_prone_annotations-2.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/jakarta.activation-1.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/netty-handler-4.1.87.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/byte-buddy-1.12.22.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/opentelemetry-context-1.22.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/opentelemetry-api-1.22.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/netty-handler-proxy-4.1.87.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/async-http-client-netty-utils-2.12.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/opentelemetry-api-logs-1.22.0-alpha.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/opentelemetry-sdk-1.22.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/netty-transport-classes-kqueue-4.1.87.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/netty-transport-4.1.87.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/jsr305-3.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/jcommander-1.82.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/netty-codec-socks-4.1.87.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/opentelemetry-sdk-logs-1.22.0-alpha.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/netty-transport-classes-epoll-4.1.87.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/netty-reactive-streams-2.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/auto-service-1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/opentelemetry-exporter-logging-1.22.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/auto-common-1.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/netty-codec-http-4.1.87.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.22.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/guava-31.1-jre.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/checker-qual-3.12.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/netty-common-4.1.87.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/opentelemetry-semconv-1.22.0-alpha.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/opentelemetry-sdk-trace-1.22.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/reactive-streams-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/lib/slf4j-api-2.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/selenium-api-4.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/selenium-chrome-driver-4.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/selenium-chromium-driver-4.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/selenium-devtools-v85-4.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/selenium-devtools-v108-4.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/selenium-devtools-v109-4.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/selenium-devtools-v110-4.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/selenium-edge-driver-4.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/selenium-firefox-driver-4.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/selenium-http-4.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/selenium-ie-driver-4.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/selenium-java-4.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/selenium-json-4.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/selenium-manager-4.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/selenium-remote-driver-4.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/selenium-safari-driver-4.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium/selenium-support-4.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/guava-31.1-jre.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/guava-31.1-jre.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/opentelemetry-sdk-common-1.22.0.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/async-http-client-2.12.3.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/netty-resolver-4.1.87.Final.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/netty-transport-native-unix-common-4.1.87.Final.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/opentelemetry-sdk-metrics-1.22.0.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/j2objc-annotations-1.3.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/commons-exec-1.3.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/failureaccess-1.0.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/netty-codec-4.1.87.Final.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/failsafe-3.3.0.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/auto-service-annotations-1.0.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/opentelemetry-sdk-extension-autoconfigure-1.22.0-alpha.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/jtoml-2.0.0.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/netty-buffer-4.1.87.Final.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/error_prone_annotations-2.11.0.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/jakarta.activation-1.2.2.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/netty-handler-4.1.87.Final.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/byte-buddy-1.12.22.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/opentelemetry-context-1.22.0.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/opentelemetry-api-1.22.0.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/netty-handler-proxy-4.1.87.Final.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/async-http-client-netty-utils-2.12.3.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/opentelemetry-api-logs-1.22.0-alpha.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/opentelemetry-sdk-1.22.0.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/netty-transport-classes-kqueue-4.1.87.Final.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/netty-transport-4.1.87.Final.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/jsr305-3.0.2.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/jcommander-1.82.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/netty-codec-socks-4.1.87.Final.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/opentelemetry-sdk-logs-1.22.0-alpha.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/netty-transport-classes-epoll-4.1.87.Final.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/netty-reactive-streams-2.0.4.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/auto-service-1.0.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/opentelemetry-exporter-logging-1.22.0.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/auto-common-1.2.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/netty-codec-http-4.1.87.Final.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.22.0.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/guava-31.1-jre.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/checker-qual-3.12.0.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/netty-common-4.1.87.Final.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/opentelemetry-semconv-1.22.0-alpha.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/opentelemetry-sdk-trace-1.22.0.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/reactive-streams-1.0.4.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/lib/slf4j-api-2.0.6.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/selenium-api-4.8.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/selenium-chrome-driver-4.8.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/selenium-chromium-driver-4.8.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/selenium-devtools-v85-4.8.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/selenium-devtools-v108-4.8.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/selenium-devtools-v109-4.8.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/selenium-devtools-v110-4.8.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/selenium-edge-driver-4.8.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/selenium-firefox-driver-4.8.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/selenium-http-4.8.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/selenium-ie-driver-4.8.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/selenium-java-4.8.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/selenium-json-4.8.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/selenium-manager-4.8.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/selenium-remote-driver-4.8.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/selenium-safari-driver-4.8.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/selenium/selenium-support-4.8.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/image.jpg" />
+    </root>
+  </artifact>
+</component>
